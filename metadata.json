@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EduVid AI Summarizer & Quizzer",
+  "description": "An educational app that uses AI to generate concise summaries and quizzes from video content, and analyze the time complexity of code captured from the camera.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
